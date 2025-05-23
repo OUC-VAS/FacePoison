@@ -1,0 +1,12 @@
+tqdm 
+pandas 
+pyyaml 
+argparse
+opencv-python 
+requests 
+matplotlib 
+seaborn 
+thop 
+scipy 
+dlib
+setuptools==73.0.1
