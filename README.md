@@ -131,12 +131,13 @@ If you find FacePoison useful for your research, welcome to 🌟 this repo and c
   author={Zhu, Delong and Li, Yuezun and Wu, Baoyuan and Zhou, Jiaran and Wang, Zhibo and Lyu, Siwei},
   journal={arXiv preprint arXiv:2412.01101},
   year={2024}
+}
+
 @inproceedings{li2023face,
   title={Face Poison: Obstructing DeepFakes by Disrupting Face Detection},
   author={Li, Yuezun and Zhou, Jiaran and Lyu, Siwei},
   booktitle={IEEE International Conference on Multimedia and Expo},
   year={2023}
-}
 }
 ```
 ## Contact 📧
