@@ -141,5 +141,5 @@ If you find FacePoison useful for your research, welcome to 🌟 this repo and c
 }
 ```
 ## Contact 📧
-[**Delong Zhu**](https://scholar.google.com.hk/citations?user=UNd2St8AAAAJ&hl=zh-CN); **zhudelong@stu.ouc.edu.cn**
+[**Delong Zhu**](https://delong-zhu.github.io/); **zhudelong@stu.ouc.edu.cn**
 
