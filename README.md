@@ -1,7 +1,7 @@
 <h1 align="center">Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection</h1>
 
 <div align='center'>
-    <a href='https://delong-zhu.github.io/' target='_blank'><strong>Delong Zhu</strong></a><sup> 1</sup>&emsp;
+    <a href='https://hisssec.github.io/' target='_blank'><strong>Delong Zhu</strong></a><sup> 1</sup>&emsp;
     <a href='https://yuezunli.github.io/' target='_blank'><strong>Yuezun Li</strong></a><sup> 1*</sup>&emsp;
     <a target='_blank'><strong>Baoyuan Wu</strong></a><sup> 2</sup>&emsp;
     <a target='_blank'><strong>Jiaran Zhou</strong></a><sup> 1</sup>&emsp;
@@ -141,5 +141,5 @@ If you find FacePoison useful for your research, welcome to 🌟 this repo and c
 }
 ```
 ## Contact 📧
-[**Delong Zhu**](https://delong-zhu.github.io/); **zhudelong@stu.ouc.edu.cn**
+[**Delong Zhu**](https://hisssec.github.io/); **zhudelong@stu.ouc.edu.cn**
 
