@@ -38,7 +38,6 @@
 
 
 <p align="center">
-  🔥 Code has released.🔥
   <img src="./figures/overview.png" alt="showcase">
   <br>
 
