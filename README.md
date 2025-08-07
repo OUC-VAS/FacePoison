@@ -129,11 +129,11 @@ We would like to thank the contributors of [RetinaFace](https://github.com/biubu
 ## Citation 💖
 If you find FacePoison useful for your research, welcome to 🌟 this repo and cite our work using the following BibTeX:
 ```bibtex
-@article{zhu2024hiding,
-  title={Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection},
+@article{zhu2025hiding,
+  title={Hiding faces in plain sight: Defending deepfakes by disrupting face detection},
   author={Zhu, Delong and Li, Yuezun and Wu, Baoyuan and Zhou, Jiaran and Wang, Zhibo and Lyu, Siwei},
-  journal={arXiv preprint arXiv:2412.01101},
-  year={2024}
+  journal={IEEE Transactions on Dependable and Secure Computing},
+  year={2025}
 }
 
 @inproceedings{li2023face,
