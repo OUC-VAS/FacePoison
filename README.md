@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 ### 2. Data Preparation 📦
 
-You can download images and annotations of WIDER dataset from [Google Drive](https://drive.google.com/file/d/1wnuwBPZd0wfg8M1n1KupRnUxMiXlZ1rD/view?usp=drive_link) or [OneDrive](hhttps://stuouceducn-my.sharepoint.com/:u:/g/personal/zhudelong_stu_ouc_edu_cn/ESgiYGjMMGZBsNbWrgCfRWYBXxHybd2TvMdmQjj2dIlqpw). Unzip and place them in `./attack_public_datasets`.
+You can download images and annotations of WIDER dataset from [Google Drive](https://drive.google.com/file/d/1wnuwBPZd0wfg8M1n1KupRnUxMiXlZ1rD/view?usp=drive_link) or [OneDrive](https://stuouceducn-my.sharepoint.com/:u:/g/personal/zhudelong_stu_ouc_edu_cn/ESgiYGjMMGZBsNbWrgCfRWYBXxHybd2TvMdmQjj2dIlqpw). Unzip and place them in `./attack_public_datasets`.
 
 If you intend to perform protection on videos, we provide the data for id0, id1, and id2 from the Celeb-DF used in our main experiments. You can download them from [Google Drive](https://drive.google.com/file/d/1jQQPtuTOF_6v1-97MIWTj_pnm8gVFgMo/view?usp=sharing) or [OneDrive](https://stuouceducn-my.sharepoint.com/:u:/g/personal/zhudelong_stu_ouc_edu_cn/EQcGToFTh6pAsO7SrBJk6G0Bm9hgg5nDlXqcEICfjZUuXw?e=YIHeHW) to assist with the next step of generating perturbations. Unzip and place them in `./VideoFacePoison/attack_public_datasets`.
 
