@@ -143,9 +143,10 @@ If you find FacePoison useful for your research, welcome to 🌟 this repo and c
   year={2023}
 }
 ```
+
+## License 🔫
+This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=chatgpt.com)). This repository is intended for academic research use only. Commercial use is prohibited. Please refer to the LICENSE file for more details.
+
 ## Contact 📧
 [**Delong Zhu**](https://hisssec.github.io/); **zhudelong@stu.ouc.edu.cn**
 
-## License 🔫
-
-This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=chatgpt.com)). This repository is intended for academic research use only. Commercial use is prohibited. Please refer to the LICENSE file for more details.
